@@ -1,0 +1,13 @@
+Html {
+    font-family:sans-serif;
+  }
+  Corpo {
+    width: 50% ;
+    max-width: 800px ;
+    min-width: 480px ;
+    margin: 0 automático;
+  }
+.ultimoResultado {
+    color:branco;
+    fill: 3px ;
+  }
