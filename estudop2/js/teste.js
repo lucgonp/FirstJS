@@ -8,7 +8,6 @@ botao.addEventListener("click", function(event){
     var numeroTr = montarTr(valorDigitado1);
 
     console.log(valorDigitado1);
-    
 });
 
 
